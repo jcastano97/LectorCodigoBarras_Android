@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_f57682685bf31b52165c7807afb722be9014662a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_fe9c85eb632bb3c0cb7f26d1ed814768fc20f78a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_add1d858e69940280065589289f7a9fd65c63f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fac49e7afeef43e06c3e8c1faa92266028bfd3ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_d0ae2664f660c9743e5e8282090eea613aab1d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_50ee7ab2d85fae2d2ae912a848f82153018a452a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_068cb8df46e4669461c0f3c438a6d0d6bdcdb8ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_59a6acdf30eea86627c38b37d130c27a7c98867a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_f3fd0d7cb89040b750fe3a6f6ce486b519ef9add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_59482a8ffa5c51bc307c70192de68169913aa476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0e011268d2233398f66c2b719a01c025944fbd71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_77535d659f1d3545401a249c16aa92b2d28eb0c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_58604724d15db7eba8f6ba456b6502ed7c6f4269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_057b2fe51a9041ea932d3da7c8b1cbcfe32ffb4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_ea486791bd7eca0271955bae6212d5eac9a5d057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_e054cbcbd6ef8a4f86e1b5127f6aacf6c2ae87d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_436958f6549c04fe8db2d1e1687310771d47e343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\juanz\AndroidStudioProjects\Lectorcodigodebarras(Cedula)\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_7838bea674912972023f669f592e0ebf103831fd.jar" />
+    </item>
+
+</items>

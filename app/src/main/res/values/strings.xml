@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lector codigo de barras (Cedula)</string>
+    <string name="scan">Escanear Cedula</string>
+</resources>

@@ -1,0 +1,4 @@
+#Tue Dec 13 04:13:41 COT 2016
+base.0=C\:\\Users\\juanz\\AndroidStudioProjects\\Lectorcodigodebarras(Cedula)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\juanz\\AndroidStudioProjects\\Lectorcodigodebarras(Cedula)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
